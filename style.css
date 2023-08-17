@@ -33,6 +33,7 @@
  .hero {
     position: relative;
     min-height: 100vh;
+    background-image: url(img/kris.jpg);
  }
 
  .hero h1, .hero h4, .hero p {
